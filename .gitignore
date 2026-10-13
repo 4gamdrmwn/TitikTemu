@@ -1,0 +1,19 @@
+# Environment
+.env
+
+# Node (untuk Tailwind)
+node_modules/
+package-lock.json
+
+# Upload user
+uploads/*
+!uploads/.gitkeep
+
+# OS & IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Log
+*.log
